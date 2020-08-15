@@ -7,7 +7,9 @@ Make a new folder anywhere on your computer and name it CodeQueens. Remember whe
 ## Set up your GitHub account
 GitHub is an industry leading platform that allows coders from all over the world collaborate on projects. We'll be using it to create a repository for our code, which you can think of as a project folder. GitHub allows you to make changes to your code and save them to your repository, while also tracking the history of your changes. That way, if you make a mistake or want to go back to a previous version of your project, you can do that using GitHub.
 
-Go to github.com to set up your free account. You'll need to pick a username for yourself, enter in an email address, and set a password. 
+Go to github.com to set up your free account. You'll need to pick a username for yourself, enter in an email address, and set a password.
+
+Go through the prompts to select what you're interested in using GitHub for. For example, you can select Learn Git and Learn to Code in the section that asks what you're interested in learning about.
 
 GitHub will then send you a confirmation email in which you can verify your account. 
 
