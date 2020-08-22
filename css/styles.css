@@ -23,7 +23,7 @@ img {
     text-align: center;
 }
 
-#welcomeBox {
+#leftBox {
     width: 40%;
     float: left;
     font-size: 50px;
@@ -31,7 +31,7 @@ img {
     border-bottom: 10px solid #f28b8b;
 }
 
-#descriptionBox {
+#rightBox {
     width: 40%;
     height: 475px;
     float: right;
